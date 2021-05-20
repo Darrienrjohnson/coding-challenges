@@ -8,6 +8,8 @@ if (answer.toUpperCase() === "MERCURY") {
 }
 */
 
+//----------------End of Code------------------
+
 //Coding Challenge from teamTreeHouse
 //Create a quiz application
 
@@ -71,3 +73,4 @@ main.innerHTML = `
 <h2>You got ${correct} out of 5 questions correct</h2>
 <p>Crown earned: <strong>${rank}</strong></p>
 `;
+//--------------- End of Code------------------
